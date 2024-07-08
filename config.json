@@ -1,0 +1,26 @@
+{
+    "input_columns": {
+      "MonsoonIntensity":"numerical",
+      "TopographyDrainage":"numerical",
+      "RiverManagement":"numerical",
+      "Deforestation":"numerical",
+      "Urbanization":"numerical",
+      "ClimateChange":"numerical",
+      "DamsQuality":"numerical",
+      "Siltation":"numerical",
+      "AgriculturalPractices":"numerical",
+      "Encroachments":"numerical",
+      "IneffectiveDisasterPreparedness":"numerical",
+      "DrainageSystems":"numerical",
+      "CoastalVulnerability":"numerical",
+      "Landslides":"numerical",
+      "Watersheds":"numerical",
+      "DeterioratingInfrastructure":"numerical",
+      "PopulationScore":"numerical",
+      "WetlandLoss":"numerical",
+      "InadequatePlanning":"numerical",
+      "PoliticalFactors":"numerical"
+    },
+    "output_column": "FloodProbability"
+  }
+ 
